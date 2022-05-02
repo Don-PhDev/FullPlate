@@ -1,17 +1,6 @@
-import { Send } from "@mui/icons-material";
 import React from "react";
 import ContactForm from "../components/Form/ContactForm";
-
-
-
-
-
 import "../styles/Contact.css";
-
-
-
-
-
 
 function Contact() {
   return (
